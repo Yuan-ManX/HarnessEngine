@@ -24,7 +24,7 @@ HarnessEngine 是一个开创性的原创框架，旨在通过先进的基于汤
 克隆仓库并安装依赖：
 
 ```bash
-git clone https://github.com/yourusername/HarnessEngine.git
+git clone https://github.com/Yuan-ManX/HarnessEngine.git
 cd HarnessEngine
 pip install -r requirements.txt
 ```
