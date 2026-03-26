@@ -24,7 +24,7 @@ HarnessEngine is a groundbreaking, original framework designed to solve the chal
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/HarnessEngine.git
+git clone https://github.com/Yuan-ManX/HarnessEngine.git
 cd HarnessEngine
 pip install -r requirements.txt
 ```
