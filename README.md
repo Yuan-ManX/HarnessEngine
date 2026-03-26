@@ -1,6 +1,6 @@
 # HarnessEngine
 
-An Innovative, Original Framework for Intelligent Policy Search and Environment Interaction
+HarnessEngine - Automatic Harness Engine for AI Systems.
 
 ## Overview
 
